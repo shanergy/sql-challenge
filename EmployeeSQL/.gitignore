@@ -1,0 +1,12 @@
+# ignore these files:
+config.py
+EmployeeSQL_bonus_analysis_v1.ipynb
+EmployeeSQL_ERD_QuickDBD_export.pdf
+EmployeeSQL_ERD_QuickDBD_export.sql
+EmployeeSQL_ERD_QuickDBD_input.sql
+EmployeeSQL_v1.sql
+table_summaries.xlsx
+
+# ignore these directories/folders:
+__pycache__
+.ipynb_checkpoints
